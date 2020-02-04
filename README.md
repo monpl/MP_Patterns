@@ -4,14 +4,6 @@
 
 # Installing MP_Patterns
 
-### Install via OpenUPM
-
-The package is available on the [openupm registry](https://openupm.com). It's recommended to install it via [openupm-cli](https://github.com/openupm/openupm-cli).
-
-```
-openupm add com.monsterplanet.patterns 
-```
-
 ### Install via Git URL
 
 Since Unity 2019.3, use *Add a package from git URL* button from the Package Manager UI to install the package.
