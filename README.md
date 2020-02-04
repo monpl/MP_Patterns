@@ -16,8 +16,6 @@ https://github.com/monpl/MP_Patterns.git
 
 ## Requirements
 
-This version of Sprite Editor is compatible with the following versions of the Unity Editor:
-
 * 2019.2 and later (recommended)
 
 ## Document revision history
