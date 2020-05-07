@@ -1,0 +1,14 @@
+{
+  "name": "com.monsterplanet.patterns.editor",
+  "references": [ 
+    "com.monsterplanet.patterns"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": []
+}
