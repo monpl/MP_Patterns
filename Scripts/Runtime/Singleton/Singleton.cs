@@ -48,7 +48,8 @@ namespace MP_Patterns
 
         public void OnDestroy()
         {
-            _isQuit = true;
+            // _isQuit = true;
+            _instance = null;   
         }
     }
     // public abstract class NewSingleton<T> : MonoBehaviour where T : MonoBehaviour
